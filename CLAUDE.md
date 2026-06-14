@@ -45,6 +45,11 @@ git merge feature/your-feature-name
 git push origin main
 ```
 
+## デプロイ情報
+
+- 本番URL：https://realestate-app-ochre.vercel.app
+- Supabaseプロジェクト名：realestate-app
+
 ## 開発ルール
 
 - コードを変更したら必ずプッシュ（作業の記録として残す）
